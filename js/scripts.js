@@ -17,7 +17,7 @@ function newItem() {
       li.on('dblclick', toggleStrike);
   
       // Add a delete button "X"
-      let deleteButton = $('<button></button>');
+      let deleteButton = $('<button class="deleteButton"></button>');
       deleteButton.append(document.createTextNode('X'));
       li.append(deleteButton);
   
