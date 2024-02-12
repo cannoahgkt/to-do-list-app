@@ -2,4 +2,4 @@
 
 GitHub Pages Link:
 
-https://asareff.github.io/to-do-list-app/
+https://cannoahgkt.github.io/to-do-list-app/
