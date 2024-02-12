@@ -70,7 +70,6 @@ ol li:nth-child(even) {
     background: #f5f5f5; 
 }
 
-/* Animation for the cross-out effect */
 @keyframes crossOutAnimation {
     0% { text-decoration: none; }
     50% { text-decoration: line-through; }
